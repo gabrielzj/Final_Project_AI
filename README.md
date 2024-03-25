@@ -10,3 +10,6 @@ Project's Must:
 
 Dataset - Adult Census Income
 Available at: https://www.kaggle.com/datasets/uciml/adult-census-income
+
+This project was co-developed by @WendelLorenzi https://github.com/WendelLorenzi
+
